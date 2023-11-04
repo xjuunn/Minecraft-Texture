@@ -11,3 +11,5 @@ Minecraft 中的图形贴图
 
 
 ![s](./贴图/font/accented.png)![s](./贴图/font/ascii.png)![s](./贴图/font/nonlatin_european.png)![s](./贴图/font/unicode_page_3a.png)![s](./贴图/font/unicode_page_3b.png)![s](./贴图/font/unicode_page_15.png)![s](./贴图/font/unicode_page_aa.png)
+
+> :warning: 该仓库所有资源仅用于个人非商业用途
